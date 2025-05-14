@@ -12,6 +12,7 @@ matplotlib = "*"
 ipykernel = "*"
 geopy = "*"
 folium = "*"
+seaborn = "*"
 
 [dev-packages]
 ipykernel = "*"
